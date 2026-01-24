@@ -1,0 +1,6 @@
+@MIDTERM_A1_BASICAUTH_HostAddress = http://localhost:5023
+
+GET {{MIDTERM_A1_BASICAUTH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
